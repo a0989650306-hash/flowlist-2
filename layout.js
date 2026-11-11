@@ -1,0 +1,1 @@
+import './styles.css';export const metadata={title:'FlowList 2.0｜智慧待辦',description:'LINE 智慧待辦與跨裝置管理'};export default function RootLayout({children}){return <html lang="zh-Hant"><body>{children}</body></html>}
